@@ -1,0 +1,5 @@
+{
+  "name": "IntelliPrompt XML Analyzer",
+  "description": "An intelligent tool that analyzes a user's prompt, converts it to a semantic XML structure, and offers optimized prompt suggestions for better AI interaction.",
+  "requestFramePermissions": []
+}
